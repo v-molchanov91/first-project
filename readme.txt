@@ -1,0 +1,2 @@
+Trening projekt on git
+
